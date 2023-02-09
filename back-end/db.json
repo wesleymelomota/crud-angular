@@ -1,0 +1,29 @@
+{
+  "produtos": [
+    {
+      "name": "Playstation 5",
+      "prace": 4500.55,
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "Iphone 11 pro",
+      "prace": 3440.95
+    },
+    {
+      "name": "xbox series X",
+      "prace": 3300.95,
+      "id": 5
+    },
+    {
+      "name": "Notebook",
+      "prace": 2350.75,
+      "id": 6
+    },
+    {
+      "name": "fone jbl",
+      "prace": 230,
+      "id": 7
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+}
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #fff;
+}
+.img{
+    max-width: 50px;
+    max-height: 100%;
+}
+.title-group {
+    display: flex;
+    margin-left: 15px;
+}
